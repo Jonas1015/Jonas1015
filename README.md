@@ -1,16 +1,23 @@
-## Hi there 👋
+## 👋 Hi, I'm Jonas
 
-<!--
-**Jonas1015/Jonas1015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Software Developer
+- Currently working on some interesting stuff.
+- Interested in clean architecture & open-source
+- Based in Tanzania
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Frontend: Angular, TypeScript
+- Backend: Python, FastAPI, Django
+- Desktop Apps: C#,
+- DevOps: Docker, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me
+- Email: jonasgeorge1015@gmail.com
+- LinkedIn: [https://linkedin.com/in/jonasmwambimbi](https://www.linkedin.com/in/jonas-mwambimbi)
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=python&logoColor=black)
+
+
