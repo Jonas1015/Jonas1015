@@ -18,6 +18,8 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=python&logoColor=black)
+![Linux](https://img.shields.io/badge/Python-FFDE57?logo=python&logoColor=black)
+![Linux](https://img.shields.io/badge/FastAPI-00AC9C?logo=fastapi&logoColor=black)
+![Linux](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=black)
 
 
