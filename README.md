@@ -2,9 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Tech+Enthusiast;Open+Source+Contributor)
 
-I’m a just a dude with **5+ years of experience**, driven by curiosity and a genuine love for building software.
+I’m a software developer with **5+ years of experience**, driven by curiosity and a genuine love for building software.
 I know growth comes from continuous learning, clean design, and solving real problems.  
-I’m not at the top—and that’s exactly what keeps me motivated.
+I’m not at the top yet and that’s exactly what keeps me motivated. The good thing is I am having fun as well.
 
 - 💻 Software Developer
 - 🚀 Currently working on interesting and impactful projects
