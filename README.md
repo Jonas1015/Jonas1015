@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jonas
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Tech+Enthusiast;Open+Source+Contributor)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Tech+Enthusiast;ChaCC+API+Core+Developer)
 
 I’m a software developer with **5+ years of experience**, driven by curiosity and a genuine love for building software.
 I know growth comes from continuous learning, clean design, and solving real problems.  
