@@ -23,14 +23,14 @@ I’m not at the top yet and that’s exactly what keeps me motivated. The good 
 
 ### ⭐ Favourite Projects
 All of these are **open projects**—contributions and pull requests are welcome.
+- 🔗 **Chacc API**
+  Stop building the same thing over and over, patching modules, moving code from project to project. This FastAPI backend will help you build modular pluggable APIs wihtout repeating yourself. 
+  - [Documentation](https://chacc.dev)
+  - [GitHub Repository](https://github.com/Jonas1015/chacc-api)
 
 - 🚀 **Pip Accelerator**  
   [chacc-dependency-manager](https://pypi.org/project/chacc-dependency-manager/)  
   A Python dependency acceleration tool focused on improving installation speed and efficiency.
-
-- 🔗 **Chacc API**  
-  [GitHub Repository](https://github.com/Jonas1015/chacc-api)  
-  A backend API service designed with scalability and clean architecture in mind.
 
 - 🛠 **VMan (Verbal Autopsy Manager)**  
   [Documentation](https://vman3.vatools.net)  
